@@ -1,2 +1,11 @@
-# online_voting_system
-An online voting system project is a secure web-based platform that enables users to cast their votes electronically, ensuring convenience and accessibility. It incorporates authentication and encryption to maintain voter privacy and election integrity.
+# ONLINE-VOTING-SYSTEM-in-PHP-MYSQL
+
+
+
+This system allows all registered users to vote for their favorite PROGRAMMING LANGUAGE.
+In order to make a vote you have to register first and then login.
+
+more projects visit - https://projectworlds.in
+
+YouTube - https://youtu.be/mQiLqIhWXxM
+
